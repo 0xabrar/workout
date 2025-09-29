@@ -1,0 +1,63 @@
+/* Link + general text */
+a { color: #0969da; text-decoration: underline; }
+a:hover { color: #054da7; }
+
+/* Collapsible day blocks */
+details.workout-day {
+  margin: 16px 0;
+  border: 1px solid #e5e7eb; /* gray-200 */
+  border-radius: 8px;
+  overflow: hidden;
+}
+details.workout-day > summary {
+  list-style: none;
+  display: block;
+  padding: 10px 12px;
+  color: #ffffff;
+  font-weight: 700;
+  cursor: pointer;
+}
+details.workout-day > summary::-webkit-details-marker { display: none; }
+details.workout-day > summary::after {
+  content: '▾';
+  float: right;
+  opacity: 0.85;
+  transition: transform 0.15s ease;
+}
+details.workout-day[open] > summary::after { transform: rotate(-180deg); }
+
+/* Day theme colors */
+.theme-blue > summary { background: #0a66c2; }
+.theme-green > summary { background: #0f9d58; }
+.theme-purple > summary { background: #6f42c1; }
+.theme-orange > summary { background: #f97316; }
+
+/* Content inside details */
+details.workout-day > *:not(summary) {
+  padding: 12px;
+  background: #ffffff;
+}
+
+/* Workout tables */
+table.workout {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.95rem;
+}
+table.workout th, table.workout td {
+  padding: 8px 10px;
+  border-bottom: 1px solid #e5e7eb; /* gray-200 */
+}
+table.workout thead th,
+table.workout tr:first-child th {
+  background: #f3f4f6; /* gray-100 */
+  color: #111827; /* gray-900 */
+}
+table.workout tbody tr:nth-child(even) {
+  background: #f9fafb; /* gray-50 */
+}
+/* Align edge columns left for readability */
+table.workout th:first-child,
+table.workout td:first-child,
+table.workout th:last-child,
+table.workout td:last-child { text-align: left; }
