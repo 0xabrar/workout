@@ -21,9 +21,7 @@
 - [How To Train Like A Minimalist (framework)](https://www.youtube.com/watch?v=xc4OtzAnVMI)
 ## WEEKLY SCHEDULE
 
-<a id="mon-upper-a"></a>
-<details>
-<summary>🏋️ MON – UPPER A (push focus)</summary>
+### 🟦 🏋️ MON – UPPER A (push focus)
 
 | Exercise |  WU | 🔥 Sets | 🔁 Reps | 🎯 RPE | ⏱️ Rest | Notes |
 |----------|----:|-------:|-------:|------:|-------:|-------|
@@ -36,13 +34,9 @@
 | **A2: Cable Biceps Curl** | 1 | 2 | 12–15 | 10 | ~1 min | Superset if possible. |
 | **Cable Lateral Raise (one arm)** | 1 | 2 | 12–15 | 9–10 | ~1 min | Alternate arms back-to-back; minimal rest. [Video](https://www.youtube.com/shorts/f_OGBg2KxgY) |
 
-</details>
 
 
-
-<a id="tue-lower-a"></a>
-<details>
-<summary>🦵 TUE – LOWER A (knee-dominant)</summary>
+### 🟩 🦵 TUE – LOWER A (knee-dominant)
 
 | Exercise |  WU | 🔥 Sets | 🔁 Reps | 🎯 RPE | ⏱️ Rest | Notes |
 |----------|----:|-------:|-------:|------:|-------:|-------|
@@ -53,13 +47,9 @@
 | **A2: Hanging Leg Raise** | 1 | 2 | 10–12 | 9–10 | ~1.5 min | |
 | **Machine Hip Abduction** | 1 | 2 | 12–15 | 9–10 | ~1 min | Lean torso ~30° forward for a stronger glute stretch. |
 
-</details>
 
 
-
-<a id="thu-upper-b"></a>
-<details>
-<summary>💪 THU – UPPER B (pull + press)</summary>
+### 🟪 💪 THU – UPPER B (pull + press)
 
 | Exercise |  WU | 🔥 Sets | 🔁 Reps | 🎯 RPE | ⏱️ Rest | Notes |
 |----------|----:|-------:|-------:|------:|-------:|-------|
@@ -72,13 +62,9 @@
 | **A2: Cable Overhead Triceps Extension** | 1 | 2 | 12–15 | 10 | ~1.5 min | Superset if possible. [Video](https://www.youtube.com/shorts/5YaWrGPtIIE) |
 | **Cable Lateral Raise (one arm)** | 1 | 2 | 12–15 | 10 | ~1 min | Alternate arms back-to-back; minimal rest. [Video](https://www.youtube.com/shorts/f_OGBg2KxgY) |
 
-</details>
 
 
-
-<a id="fri-lower-b"></a>
-<details>
-<summary>🍑 FRI – LOWER B (hinge-dominant)</summary>
+### 🟧 🍑 FRI – LOWER B (hinge-dominant)
 
 | Exercise |  WU | 🔥 Sets | 🔁 Reps | 🎯 RPE | ⏱️ Rest | Notes |
 |----------|----:|-------:|-------:|------:|-------:|-------|
@@ -88,8 +74,6 @@
 | **A1: Standing Calf Raise** | 1 | 2 | 12–15 | 10 | 0 min | Pair with A2 (no rest). [Video](https://www.youtube.com/shorts/xKHxkaaO8gQ) |
 | **A2: Cable Crunch** | 1 | 2 | 12–15 | 10 | ~1.5 min | |
 | **Machine Hip Abduction** | 1 | 2 | 12–15 | 9–10 | ~1 min | Lean torso ~30° forward for a stronger glute stretch. |
-
-</details>
 
 
 
