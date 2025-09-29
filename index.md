@@ -2,6 +2,8 @@
 
 <link rel="stylesheet" href="assets/workout.css">
 
+<div id="workout-root">
+
 > **Goal:** ~45 min per session (≈3 hrs/week). Low volume, high intensity.
 
 ## Quick-Start
@@ -16,7 +18,7 @@
   - 1 set: ~60% work weight × full reps
   - 2 sets: ~50% × full reps, then ~70% × fewer reps
   - 3 sets: ~45% × full reps, ~65% × fewer reps, ~85% × fewer reps
-- **Keep it easy:** Move quickly; rest ~30–60s before first heavy set.
+- **Keep it easy:** Move briskly between warm-up sets; no pause needed. Rest ~30–60s only before your first heavy working set.
 ## Prerequisite Videos
 - [How To Build Muscle — 5 Levels (explainer)](https://www.youtube.com/watch?v=lu_BObG6dj8)
 - [How To Tell If You're Training Hard Enough (RPE guide)](https://www.youtube.com/watch?v=deDlhPmT2SY)
@@ -38,8 +40,6 @@
 | **A2: Cable Biceps Curl** | 1 | 2 | 12–15 | 10 | ~1 min | Superset if possible. |
 | **Cable Lateral Raise (one arm)** | 1 | 2 | 12–15 | 9–10 | ~1 min | Alternate arms back-to-back; minimal rest. [Video](https://www.youtube.com/shorts/f_OGBg2KxgY) |
 
-{:.workout}
-
 </details>
 
 
@@ -56,8 +56,6 @@
 | **A1: Standing Calf Raise** | 1 | 2 | 10–12 | 9–10 | 0 min | Pair with A2 (no rest). [Video](https://www.youtube.com/shorts/xKHxkaaO8gQ) |
 | **A2: Hanging Leg Raise** | 1 | 2 | 10–12 | 9–10 | ~1.5 min | |
 | **Machine Hip Abduction** | 1 | 2 | 12–15 | 9–10 | ~1 min | Lean torso ~30° forward for a stronger glute stretch. |
-
-{:.workout}
 
 </details>
 
@@ -78,8 +76,6 @@
 | **A2: Cable Overhead Triceps Extension** | 1 | 2 | 12–15 | 10 | ~1.5 min | Superset if possible. [Video](https://www.youtube.com/shorts/5YaWrGPtIIE) |
 | **Cable Lateral Raise (one arm)** | 1 | 2 | 12–15 | 10 | ~1 min | Alternate arms back-to-back; minimal rest. [Video](https://www.youtube.com/shorts/f_OGBg2KxgY) |
 
-{:.workout}
-
 </details>
 
 
@@ -97,8 +93,6 @@
 | **A2: Cable Crunch** | 1 | 2 | 12–15 | 10 | ~1.5 min | |
 | **Machine Hip Abduction** | 1 | 2 | 12–15 | 9–10 | ~1 min | Lean torso ~30° forward for a stronger glute stretch. |
 
-{:.workout}
-
 </details>
 
 
@@ -106,3 +100,5 @@
 ## Reference Videos
 - [What Does RPE 10 Really Look Like? (intensity examples)](https://www.youtube.com/watch?v=EHsW37g2uGU)
 - [How To Train For Pure Muscle Growth (hypertrophy deep-dive)](https://www.youtube.com/watch?v=71op1DQ2gyo)
+
+</div>
