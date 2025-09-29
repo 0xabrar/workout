@@ -1,9 +1,5 @@
 # Rahman Minimalist Training Program – 4 Days/Week
 
-<link rel="stylesheet" href="assets/workout.css">
-
-<div id="workout-root">
-
 > **Goal:** ~45 min per session (≈3 hrs/week). Low volume, high intensity.
 
 ## Quick-Start
@@ -26,7 +22,7 @@
 ## WEEKLY SCHEDULE
 
 <a id="mon-upper-a"></a>
-<details class="workout-day theme-blue">
+<details>
 <summary>🏋️ MON – UPPER A (push focus)</summary>
 
 | Exercise |  WU | 🔥 Sets | 🔁 Reps | 🎯 RPE | ⏱️ Rest | Notes |
@@ -45,7 +41,7 @@
 
 
 <a id="tue-lower-a"></a>
-<details class="workout-day theme-green">
+<details>
 <summary>🦵 TUE – LOWER A (knee-dominant)</summary>
 
 | Exercise |  WU | 🔥 Sets | 🔁 Reps | 🎯 RPE | ⏱️ Rest | Notes |
@@ -62,7 +58,7 @@
 
 
 <a id="thu-upper-b"></a>
-<details class="workout-day theme-purple">
+<details>
 <summary>💪 THU – UPPER B (pull + press)</summary>
 
 | Exercise |  WU | 🔥 Sets | 🔁 Reps | 🎯 RPE | ⏱️ Rest | Notes |
@@ -81,7 +77,7 @@
 
 
 <a id="fri-lower-b"></a>
-<details class="workout-day theme-orange">
+<details>
 <summary>🍑 FRI – LOWER B (hinge-dominant)</summary>
 
 | Exercise |  WU | 🔥 Sets | 🔁 Reps | 🎯 RPE | ⏱️ Rest | Notes |
@@ -100,5 +96,3 @@
 ## Reference Videos
 - [What Does RPE 10 Really Look Like? (intensity examples)](https://www.youtube.com/watch?v=EHsW37g2uGU)
 - [How To Train For Pure Muscle Growth (hypertrophy deep-dive)](https://www.youtube.com/watch?v=71op1DQ2gyo)
-
-</div>
