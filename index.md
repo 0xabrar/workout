@@ -1,4 +1,4 @@
-# Rahman Minimalist Training Program – 4 Days/Week
+# Minimalist Training Program – 4 Days/Week
 
 > **Goal:** ~45 min per session (≈3 hrs/week). Low volume, high intensity.
 
@@ -7,6 +7,7 @@
 - **Intensity:** Working sets at **RPE 8–10** (≤2 reps in reserve). Warm-ups don’t count toward listed set totals.
 - **Tempo:** Controlled eccentric (2–5s), smooth concentric, full ROM.
 - **Rest times:** As listed; if form degrades, rest a little longer.
+- **Alternative exercises:** Most listed exercises have substitutions if preferred.
 ## Warm-Up
 - **General:** 5–10 min light cardio (HR 100–135 BPM).
 - **Dynamic drills:** Arm swings; leg swings front/back + side/side on leg days, 12 reps each.
@@ -25,7 +26,7 @@
 
 | Exercise |  Warm-up | 🔥 Sets | 🔁 Reps | 🎯 RPE | ⏱️ Rest | Notes |
 |----------|----:|-------:|-------:|------:|-------:|-------|
-| **Flat DB Press (heavy)** | 2–3 | 1 | 4–6 | 8–9 | ~3 min | Allow deeper stretch and faster loading. |
+| **Flat DB Press (heavy)** | 2–3 | 1 | 4–6 | 8–9 | ~3 min | Allow deeper stretch and faster loading. Bench press alternative if preferred. |
 | **Flat DB Press (back-off)** | 0 | 1 | 8–10 | 9–10 | ~3 min | |
 | **2-Grip Lat Pulldown** | 2 | 2 | 10–12 | 9–10 | ~2 min | Set 1: wide overhand (~1.5× shoulder).<br>Set 2: underhand (~1× shoulder). |
 | **Overhead Press** | 1 | 2 | 10–12 | 9–10 | ~2 min | |
@@ -59,8 +60,8 @@
 | **Incline DB Press** | 2 | 2 | 8–12 | 9–10 | ~2 min | Allow deeper stretch and faster loading. Optional drop set on last set. |
 | **Face Pulls** | 1 | 2 | 12–15 | 9–10 | ~1.5 min | Great for shoulder health and scapular control. |
 | **A1: Machine Preacher Curl** | 1 | 2 | 12–15 | 10 | ~1 min | |
-| **A2: Cable Overhead Triceps Extension** | 1 | 2 | 12–15 | 10 | ~1.5 min | [Video](https://www.youtube.com/shorts/5YaWrGPtIIE) |
-| **Cable Lateral Raise (one arm)** | 1 | 2 | 12–15 | 10 | ~1 min | Alternate arms back-to-back; minimal rest. [Video](https://www.youtube.com/shorts/f_OGBg2KxgY) |
+| **A2: Cable Overhead Triceps Extension** | 1 | 2 | 12–15 | 10 | ~1.5 min | |
+| **Cable Lateral Raise (one arm)** | 1 | 2 | 12–15 | 10 | ~1 min | Alternate arms back-to-back; minimal rest. |
 
 
 
@@ -71,7 +72,7 @@
 | **Romanian Deadlift** | 2 | 2 | 10–12 | 8–9 | ~2 min | Consider straps to avoid grip limiting load; many get better mind–muscle connection. |
 | **Leg Press** | 2 | 3 | 10–12 | 8–9 | ~2 min | [Video](https://www.youtube.com/shorts/nDh_BlnLCGc) |
 | **Leg Extension** | 1 | 1 | 10–12 | 9–10 | ~1.5 min | Optional drop set on last set. [Video](https://www.youtube.com/shorts/ztNBgrGy6FQ) |
-| **A1: Standing Calf Raise** | 1 | 2 | 12–15 | 10 | 0 min | Pair with A2 (no rest). [Video](https://www.youtube.com/shorts/xKHxkaaO8gQ) |
+| **A1: Standing Calf Raise** | 1 | 2 | 12–15 | 10 | 0 min | Pair with A2 (no rest). |
 | **A2: Cable Crunch** | 1 | 2 | 12–15 | 10 | ~1.5 min | |
 | **Machine Hip Abduction** | 1 | 2 | 12–15 | 9–10 | ~1 min | Lean torso ~30° forward for a stronger glute stretch. |
 
